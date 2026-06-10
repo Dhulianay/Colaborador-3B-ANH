@@ -1,1 +1,6 @@
-# Colaborador-3B-ANH
+# Este repositório está compartilhado:
+## Vithor
+## Carlos
+## Kauan
+## Rayan
+## Dhuliana
