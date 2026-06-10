@@ -1,4 +1,4 @@
-# Este repositório está compartilhado:
+# Este repositório está compartilhado com:
 ## Vithor
 ## Carlos
 ## Kauan
